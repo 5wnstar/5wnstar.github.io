@@ -1,0 +1,11 @@
+theme: jekyll-theme-hacker
+title: PwnStar Chronicles 🔓✨
+description: Explore, learn, conquer. Hack. Elevate. Innovate. Your journey into the realms of security starts here. 💻🌐
+show_downloads: false
+show_repo: false
+
+gems:
+  - jekyll-sitemap
+
+whitelist:
+  - jekyll-sitemap
