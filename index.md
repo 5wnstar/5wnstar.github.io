@@ -1,11 +1,8 @@
----
-layout: default
-title: Home
----
+
 * * * 
 # Welcome To My Tech Documentary👨‍💻
 * * * 
-I'm Adisa Toheeb Kayode, This space is where I unveil various hacking tricks, insightful writeups, and articles related to the fascinating world of hacking that I discover on my journey 😉.
+I'm Adisa Toheeb Kayode, This space is where I unveil various hacking tricks, insightful writeups, and articles related to the fascinating world of Technology that I discover on my journey 😉.
 
 * * * 
 ## 𝙒𝙝𝙤 𝘼𝙢 𝙄?
@@ -17,7 +14,7 @@ I'm Adisa Toheeb Kayode, This space is where I unveil various hacking tricks, in
 - Twitter: [Follow Me](https://twitter.com/5wnstar)
 - GitHub: [Explore My Projects](https://github.com/5wnstar)
 
-Feel free to roam around, explore, and don't hesitate to reach out. Let's dive into the fascinating world of Cyber Security together! 🔒💻✨
+Feel free to roam around, explore, and don't hesitate to reach out. Let's dive into the fascinating world of technology together! 🔒💻✨
 
 * * * 
 ## TryHackMe:~#
